@@ -1,0 +1,6 @@
+{
+  "name": "PowerKon",
+  "description": "AI 기반 응용 소프트웨어를 개발하는 스타트업 알토케어(Altocare)의 공식 홈페이지입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
